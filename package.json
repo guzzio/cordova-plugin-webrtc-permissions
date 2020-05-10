@@ -1,0 +1,26 @@
+{
+  "name": "io.guzz.cordova.cordova-plugin-webrtcpermissions",
+  "version": "0.0.1",
+  "description": "Set permissions for WebRTC in Cordova apps",
+  "cordova": {
+    "id": "io.guzz.cordova.cordova-plugin-webrtcpermissions",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guzzio/cordova-plugin-webrtc-permissions.git"
+  },
+  "keywords": [
+    "webrtc",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Tom Brückner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guzzio/cordova-plugin-webrtc-permissions/issues"
+  },
+  "homepage": "https://github.com/guzzio/cordova-plugin-webrtc-permissions#readme"
+}
